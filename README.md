@@ -82,8 +82,12 @@ It provides insights into customers, accounts, transactions, loans, and KYC stat
 ---
 
 ## 📷 Screenshots
+<img width="1189" height="664" alt="Screenshot 2026-03-07 101352" src="https://github.com/user-attachments/assets/f96c0a77-2a39-43e2-96d6-e0185e8dd4ab" />
+<img width="1188" height="673" alt="Screenshot 2026-03-07 101415" src="https://github.com/user-attachments/assets/30e3f278-e897-4294-9272-9813c1812a19" />
+<img width="1184" height="667" alt="Screenshot 2026-03-07 110351" src="https://github.com/user-attachments/assets/e6bc9bc6-2cfc-4e07-9e75-fed56cfd768b" />
+<img width="1349" height="761" alt="Screenshot 2026-03-25 091747" src="https://github.com/user-attachments/assets/484d959c-a1ce-423f-b666-77783c3aae6f" />
 
-<img width="512" height="512" alt="Accounts" src="https://github.com/user-attachments/assets/6c90aa45-d1a8-44e6-8214-1f2dac8f42e7" />
+
 
 
 ---
