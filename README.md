@@ -83,7 +83,8 @@ It provides insights into customers, accounts, transactions, loans, and KYC stat
 
 ## 📷 Screenshots
 
-(Add your dashboard screenshots here)
+<img width="512" height="512" alt="Accounts" src="https://github.com/user-attachments/assets/6c90aa45-d1a8-44e6-8214-1f2dac8f42e7" />
+
 
 ---
 
